@@ -1,4 +1,9 @@
 hello
+<<<<<<< HEAD
 AHHHHHHHHHHHHHHHHHHHHH
 
 OMGGGG
+=======
+AHHHHHHHHHHHHHHHHHHHHH 
+gfhfh
+>>>>>>> arman
